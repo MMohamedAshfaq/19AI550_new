@@ -1,6 +1,6 @@
 # Ex.No: 1  Installation of Unity for Game Development
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 24-04-26                                                                            
+### REGISTER NUMBER : 212224240090 
 ### AIM: 
 To install Unity2022.3.57f1 or higher version for Game Development.
 ### Procedure:
@@ -10,8 +10,8 @@ To install Unity2022.3.57f1 or higher version for Game Development.
    ![image](https://github.com/user-attachments/assets/f6a2db46-908f-4a91-b63d-794af5cb35d8)
    
 4. Open the unity Hub and choose install button.
-   
-   ![image](https://github.com/user-attachments/assets/ecbd5e46-cd02-4966-a470-4833e05c2574)
+   <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/485edef6-1f2a-46c5-8e1b-962106fdfd2c" />
+
    
 6. Choose Unity install editor and specify the location
    
@@ -19,17 +19,19 @@ To install Unity2022.3.57f1 or higher version for Game Development.
 
 8.  Add modules Microsoft Visual studio community 2022 ,documentation and continue
 9.  After unity hub editor and  Visual studio community 2022 installation proceeds
-   
-   ![image](https://github.com/user-attachments/assets/4425bc37-99c3-4fc6-b887-da5366ae9860)
+   <img width="970" height="526" alt="image" src="https://github.com/user-attachments/assets/af9c46f2-4f43-4664-9c31-84d3612ad933" />
+
    
 9.Now install shows like 
+<img width="990" height="502" alt="image" src="https://github.com/user-attachments/assets/b391b986-d00e-46d7-b35b-b97d8082d20e" />
 
-![image](https://github.com/user-attachments/assets/7e1dd5c5-4398-4c10-89cd-5f0442f49c59)
 
 10.Select projects and create new 2D or 3D project and verify all are working
+<img width="968" height="508" alt="image" src="https://github.com/user-attachments/assets/43efa6c1-0eac-4bb2-b350-7aa6f423da83" />
 
-![image](https://github.com/user-attachments/assets/c902763e-4ba5-42b7-8251-a74db9ba5a42)
 ### Output:
+<img width="1918" height="1033" alt="Screenshot 2026-04-21 104501" src="https://github.com/user-attachments/assets/a633f39d-4173-45bd-8d94-6a10b3a59a08" />
+
 
 ### Result:
 Thus the unity installation was completed sucessfully.
