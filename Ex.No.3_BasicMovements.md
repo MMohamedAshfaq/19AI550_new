@@ -1,6 +1,6 @@
 # Ex.No: 3  Basic movements in Unity 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 30.04.2026                                                                           
+### REGISTER NUMBER : 212224240090
 ### AIM: 
  To learn the basic movements translation,scaling and rotation of game objects through code.
 ### Procedure:
@@ -23,7 +23,6 @@ public class TransformOperations : MonoBehaviour
     public Transform object1; // Object for translation
     public Transform object2; // Object for rotation
     public Transform object3; // Object for scaling
-
     public float moveSpeed = 2f;  // Speed of translation
     public float rotateSpeed = 50f; // Speed of rotation
     public float scaleSpeed = 0.5f; // Speed of scaling
@@ -35,37 +34,26 @@ public class TransformOperations : MonoBehaviour
         {
            // object1.position += Vector3.right * moveSpeed;
                object1.Translate(0.02f,0,0);
-
         }
-
         // Rotate object2 around the Y-axis
         if (object2 != null)
         {
             //object2.Rotate(Vector3.up * rotateSpeed * Time.deltaTime);
             //object2.Rotate(0,0.02f.0);
         }
-
         // Scale object3 up and down
         if (object3 != null)
         {
            // float scaleChange = Mathf.PingPong(Time.time * scaleSpeed, 1f) + 0.5f; // generates a value that moves back and forth between 0 and length
            // object3.localScale = new Vector3(scaleChange, scaleChange, scaleChange);
             object3.localScale+=new Vector3(0.02f.0.02f,0);
-
         }
     }
 }
 ```
 ### Output:
 
-
-
-
-
-
-
+<img width="1919" height="1084" alt="image" src="https://github.com/user-attachments/assets/f3ab85fb-58c8-4dfd-8866-fe027af7da0a" />
 
 ### Result:
 Thus the basic movement is learned through scripting
-
-
