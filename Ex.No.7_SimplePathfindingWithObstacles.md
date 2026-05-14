@@ -1,6 +1,7 @@
 # Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 14/05/2026
+### NAME: M.Mohamed Ashfaq
+### REGISTER NUMBER : 212224240090
 ### AIM: 
 To write a program to pathfinding using AI navigation 
 ### Algorithm:
@@ -81,8 +82,7 @@ transform.position = startPos + new Vector3(movement, 0, 0);
 ### Output:
 
 
-
-
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-14 at 9 51 44 AM" src="https://github.com/user-attachments/assets/ebad586a-d356-4c72-be81-f1866b41df2d" />
 
 
 
